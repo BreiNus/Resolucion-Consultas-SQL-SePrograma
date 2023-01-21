@@ -1,6 +1,6 @@
 # NOTE: Estas son las respuestas a las 50 peticiones SQL y a las 2 especificas con JOIN
 
-Respuestas a las consultas SQL:
+Respuestas a las peticiones SQL:
 --------------------------------
 
 1: SELECT nombre FROM usuarios;
@@ -147,7 +147,7 @@ Respuestas a las consultas SQL:
 	WHERE compania = 'TELCEL';
 	
 	
-Respuestas a las consultas JOIN;
+Respuestas a las peticiones JOIN;
 --------------------------------
 
 1:  SELECT prov.codigo,prov.nombre FROM provincias AS prov
