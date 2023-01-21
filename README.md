@@ -12,7 +12,7 @@ Respuestas a las peticiones SQL:
    WHERE marca IN ('NOKIA','BLACKBERRY','SONY');
    
 4: SELECT COUNT(*) FROM usuarios
-	WHERE saldo = 0 OR activo = 0;
+   WHERE saldo = 0 OR activo = 0;
 
 5: SELECT usuario FROM usuarios
    WHERE nivel IN(1,2,3);
